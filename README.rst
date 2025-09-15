@@ -1,5 +1,5 @@
 # Projeto_Django_est
-# Documentos-Projetos_dockerpy
+# Documentos-Projeto_Django_est
 
 =====================================================================================================
 Projeto de exemplo utilizando **Python**, **Docker** e **pyenv** para gerenciamento de versões.
